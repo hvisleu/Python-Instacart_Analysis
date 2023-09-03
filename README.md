@@ -9,10 +9,8 @@ To perform an initial data and exploratory analysis of some of their data in ord
 
 ## Data
 
-*Orders  
-*Products  
-*Order_products_prior  
-*Departments  
-*Customers  
-
-
+* Orders <br>
+* Products<br>
+* Order_products_prior<br>
+* Departments<br>
+* Customers<br>
